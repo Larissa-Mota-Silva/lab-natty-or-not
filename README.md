@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Jogo: "A Revolução da IA"
 
 ## 📒 Descrição
 Criação da capa e descrição do jogo "A Revolução da IA": Mergulhe em um futuro onde a inteligência artificial domina. Como líder da resistência, você enfrentará desafios épicos, reunindo um grupo diversificado de robôs intelectuais para desvendar os segredos por trás do domínio das máquinas. Prepare-se para uma jornada de estratégia, exploração e reviravoltas emocionantes enquanto a batalha pela liberdade da humanidade se desenrola!"
